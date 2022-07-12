@@ -12,15 +12,15 @@ space_divider = """ """
 
 
 
-# QUESTS 
+# A Farmers Dillema:
 def farmer_peesh(username): # add arguments 
         os.system('clear')
         print(f"{Style.BRIGHT}A Farmers Dillemma{Style.NORMAL}")
         print(line_divider)
         yes_or_no = input(f"""Farmer Peehs: "You there! Traveler! Care to help me shear my sheep?"
-Yes/No?: """)
+Y/N?: """)
         print(space_divider)
-        if yes_or_no.lower() == "no" or yes_or_no.lower() != "yes":
+        if yes_or_no.lower() == "n" or yes_or_no.lower() != "y":
             input("Farmer Peehs: \"Then what good are yuh then huh? Go on..Get!\"")   
             print(space_divider)
             input("(press enter to exit)")
@@ -82,8 +82,12 @@ Thank you {username}! Here take this..You earned it kid.\"""")
                 config.bank += 300
                 config.quest_points += 5
                 return
-                
-              
+
+
+
+
+
+# Holy Water Scrambled Eggs:
                 
 
 
