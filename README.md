@@ -10,7 +10,7 @@
 - Python
 
 ## Instructions: (Mac)
-- <a target="_blank">CLICK HERE FOR PYTHON INSTALLATION INSTRUCTIONS FOR ALL</a>
+- <a href="https://realpython.com/installing-python/#how-to-install-from-homebrew" target="_blank" rel="noreferrer">CLICK HERE FOR PYTHON INSTALLATION INSTRUCTIONS FOR ALL</a>
 - 1.) Install python on your computer via Homebrew. To install Homebrew, open your terminal and paste the text below into your terminal and press enter.
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
