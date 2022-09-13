@@ -25,7 +25,7 @@ brew install python3
 ## Run Game:
 - 5.) After python installs, clone this repository. To do this, paste the text below into your terminal and press enter.
 ```
-git clone ?????????????
+git clone https://github.com/DeBoer753/bashscape-PROJECT.git
 ```
 - 6.) Inside terminal install these packages for decorative features to show while playing game.
 ```
